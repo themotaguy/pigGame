@@ -1,2 +1,2 @@
 # pigGame
-Simple Pig Game made to learn JavaScript and apply to its functionalities.
+Simple Pig Game made to learn JavaScript and to apply its functionalities.
